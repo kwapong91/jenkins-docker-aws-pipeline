@@ -19,11 +19,7 @@ This project demonstrates a full CI/CD pipeline using **Jenkins**, **Docker**, *
 
 ## 📂 Project Structure
 
-├── Jenkinsfile
-├── docker-practice/
-│ ├── Dockerfile
-│ └── app source files...
-└── README.md
+``` . ├── Jenkinsfile ├── docker-practice/ │ ├── Dockerfile │ └── app source files... └── README.md ```
 
 
 ## 🖼️ Architecture Diagram
